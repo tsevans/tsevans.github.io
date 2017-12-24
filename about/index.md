@@ -8,8 +8,8 @@ comments: false
     
 <center>I'm <a href="http://tsevans.github.io"><b>Thomas Evans</b></a>, this is my website!</center>
 
-# Work Experience
--
+Work Experience
+---------------
 ## TriNet
 ### Austin, Texas
 ### May 2017 - August 2017
