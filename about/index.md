@@ -9,13 +9,22 @@ comments: false
 <center>I'm <a href="http://tsevans.github.io"><b>Thomas Evans</b></a>, this is my website!</center>
 
 Work Experience
----------------
-## TriNet
+===============
+
+----------
+
+
+TriNet ![TriNet](/assets/img/trinet.png "TriNet")
+------
+
 ### Austin, Texas
 ### May 2017 - August 2017
 * Worked on an app
 
-## Optimal Satcom Inc.
+
+Optimal Satcom Inc. ![Optimal Satcom Inc.](/assets/img/optimal-satcom.png "Optimal Satcom Inc.")
+-------------------
+
 ### Herndon, Virginia
 ### May 2016 - August 2016
 * Worked on some software
