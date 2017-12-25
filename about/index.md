@@ -2,11 +2,11 @@
 layout: page
 title: About me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2017-12-24
 comments: false
 ---
     
-<center>I'm <a href="http://tsevans.github.io"><b>Thomas Evans</b></a>, this is my website!</center>
+<center>I'm <a href="http://tsevans.github.io"><b>Tom</b></a>, this is my website!</center>
 
 Work Experience
 ===============
@@ -17,7 +17,7 @@ Work Experience
 <a href="https://www.trinet.com/">
     <img src="/assets/img/trinet.png" alt="TriNet" style="float:right;width:100px;height:100px;">
 </a>
-<b><font size="9">TriNet</font></b>
+<b><font size="6">TriNet</font></b>
 </p>
 ### Austin, Texas
 ### May 2017 - August 2017
@@ -29,7 +29,7 @@ Work Experience
 <a href="https://www.optimalsatcom.com/">
     <img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:100px;height:100px;">
 </a>
-<b><font size="9">Optimal Satcom Inc.</font></b>
+<b><font size="6">Optimal Satcom Inc.</font></b>
 </p>
 ### Herndon, Virginia
 ### May 2016 - August 2016
