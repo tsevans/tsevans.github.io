@@ -14,17 +14,17 @@ Work Experience
 ----------
 
 
-TriNet ![TriNet](/assets/img/trinet.png "TriNet")
+TriNet
 ------
-
 ### Austin, Texas
 ### May 2017 - August 2017
+![TriNet](/assets/img/trinet.png "TriNet")
 * Worked on an app
 
 
-Optimal Satcom Inc. ![Optimal Satcom Inc.](/assets/img/optimal-satcom.png "Optimal Satcom Inc.")
+Optimal Satcom Inc.
 -------------------
-
 ### Herndon, Virginia
 ### May 2016 - August 2016
+![Optimal Satcom Inc.](/assets/img/optimal-satcom.png "Optimal Satcom Inc.")
 * Worked on some software
