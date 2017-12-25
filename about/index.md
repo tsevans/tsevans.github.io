@@ -15,22 +15,20 @@ Work Experience
 
 <p>
 <a href="https://www.trinet.com/">
-    <img src="/assets/img/trinet.png" alt="TriNet" style="float:right;width:42px;height:42px;">
+    <img src="/assets/img/trinet.png" alt="TriNet" style="float:right;width:84px;height:84px;">
 </a>
-<b>TriNet</b>
+<b><font size="12">TriNet</font></b>
 </p>
 ### Austin, Texas
 ### May 2017 - August 2017
-![TriNet](/assets/img/trinet.png "TriNet")
 * Worked on an app
 
 <p>
 <a href="https://www.optimalsatcom.com/">
-    <img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:42px;height:42px;">
+    <img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:84px;height:84px;">
 </a>
 <b>Optimal Satcom Inc.</b>
 </p>
 ### Herndon, Virginia
 ### May 2016 - August 2016
-![Optimal Satcom Inc.](/assets/img/optimal-satcom.png "Optimal Satcom Inc.")
 * Worked on some software
