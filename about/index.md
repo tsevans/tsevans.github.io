@@ -15,20 +15,23 @@ Work Experience
 
 <p>
 <a href="https://www.trinet.com/">
-    <img src="/assets/img/trinet.png" alt="TriNet" style="float:right;width:84px;height:84px;">
+    <img src="/assets/img/trinet.png" alt="TriNet" style="float:right;width:100px;height:100px;">
 </a>
-<b><font size="12">TriNet</font></b>
+<b><font size="9">TriNet</font></b>
 </p>
 ### Austin, Texas
 ### May 2017 - August 2017
 * Worked on an app
+* It had login feature
+
 
 <p>
 <a href="https://www.optimalsatcom.com/">
-    <img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:84px;height:84px;">
+    <img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:100px;height:100px;">
 </a>
-<b>Optimal Satcom Inc.</b>
+<b><font size="9">Optimal Satcom Inc.</font></b>
 </p>
 ### Herndon, Virginia
 ### May 2016 - August 2016
 * Worked on some software
+* It used C# and SQL
