@@ -19,7 +19,7 @@ comments: false
 * Worked on an app
 * It had login feature
 
-<br></br>
+<br>
 
 <p>
     <a href="https://www.optimalsatcom.com/"><img src="/assets/img/optimal-satcom.png" alt="Optimal Satcom Inc." style="float:right;width:100px;height:100px;"></a>
