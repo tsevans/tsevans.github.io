@@ -6,6 +6,8 @@ date: 2017-12-24
 comments: false
 ---
 
+----------
+
 # Work Experience
 
 ----------
@@ -37,6 +39,8 @@ comments: false
 <b><font size="3">Lifeguard/Manager | Chantilly, VA | May '12 - August '15</font></b>
 * Cleaned the pool
 * Managed a bunch of lifeguards
+
+----------
 
 # Extracurricular Activities
 
