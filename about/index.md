@@ -5,8 +5,6 @@ tags: [about, Jekyll, theme, moon]
 date: 2017-12-24
 comments: false
 ---
-    
-<center>I'm <a href="http://tsevans.github.io"><b>Tom</b></a>, this is my website!</center>
 
 # Work Experience
 
@@ -29,3 +27,17 @@ comments: false
 <b><font size="3">Junior Software Engineer | Herndon, VA | May '16 - August '16</font></b>
 * Worked on some software
 * It used C# and SQL
+
+<br>
+
+<p>
+    <a href="https://www.nvpools.com/"><img src="/assets/img/nvpools.png" alt="NVPools, Inc." style="float:right;width:100px;height:100px;"></a>
+    <b><font size="5">NVPools, Inc.</font></b>
+</p>
+<b><font size="3">Lifeguard/Manager | Chantilly, VA | May '12 - August '15</font></b>
+* Cleaned the pool
+* Managed a bunch of lifeguards
+
+# Extracurricular Activities
+
+----------
