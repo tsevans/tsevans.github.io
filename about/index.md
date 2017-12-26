@@ -41,6 +41,7 @@ comments: false
 * Managed a bunch of lifeguards
 
 <br>
+
 ----------
 
 # Extracurricular Activities
