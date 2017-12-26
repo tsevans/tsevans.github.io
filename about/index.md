@@ -40,6 +40,7 @@ comments: false
 * Cleaned the pool
 * Managed a bunch of lifeguards
 
+<br>
 ----------
 
 # Extracurricular Activities
