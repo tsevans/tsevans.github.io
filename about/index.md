@@ -47,3 +47,15 @@ comments: false
 # Extracurricular Activities
 
 ----------
+
+----------
+
+# Favorite...
+
+----------
+# * Quote
+    * "Hello World"
+# * Movie
+    * The Departed
+# * Music Genre
+    * Hip-Hop/Rap
