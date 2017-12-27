@@ -55,11 +55,11 @@ comments: false
 # Favorite...
 
 ----------
-## Quote
-    * "Hello World"
-## Movie
-    * The Departed
-## TV Show
-    * Westworld
-## Music Genre
-    * Hip-Hop/Rap
+* Quote
+  * "The master has failed more times than the beginner has even tried." - Stephen McCranie
+* Movie
+  * The Departed
+* TV Show
+  * Westworld
+* Music Genre
+  * Hip-Hop/Rap
