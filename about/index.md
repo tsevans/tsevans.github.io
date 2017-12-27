@@ -48,14 +48,18 @@ comments: false
 
 ----------
 
+<br>
+
 ----------
 
 # Favorite...
 
 ----------
-# * Quote
+## Quote
     * "Hello World"
-# * Movie
+## Movie
     * The Departed
-# * Music Genre
+## TV Show
+    * Westworld
+## Music Genre
     * Hip-Hop/Rap
