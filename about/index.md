@@ -48,18 +48,3 @@ comments: false
 
 ----------
 
-<br>
-
-----------
-
-# Favorite...
-
-----------
-* <b>Quote</b>
-  * "The master has failed more times than the beginner has even tried." - Stephen McCranie
-* <b>Movie</b>
-  * The Departed
-* <b>TV Show</b>
-  * Westworld
-* <b>Music Genre</b>
-  * Hip-Hop/Rap
