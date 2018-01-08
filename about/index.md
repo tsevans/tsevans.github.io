@@ -27,8 +27,10 @@ comments: false
     <b><font size="5">Optimal Satcom Inc.</font></b>
 </p>
 <b><font size="3">Junior Software Engineer  |  Herndon, VA  |  May '16 - August '16</font></b>
-* Worked on some software
-* It used C# and SQL
+* Created new features and added improvements to SES Link Budget Tool (SLBT), a contracted capacity management software package for SES Global to manage and optimize their satellite link budgeting.
+* Development was done under an Agile workflow using C# and SQL.
+* Implemented full undo-redo stack and designed administrator user permissions system across software using MVC design principles.
+* Contributed to daily status meetings involving design decisions and sprint planning.
 
 <br>
 
