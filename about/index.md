@@ -37,8 +37,9 @@ comments: false
     <b><font size="5">NVPools, Inc.</font></b>
 </p>
 <b><font size="3">Lifeguard/Manager  |  Chantilly, VA  |  May '12 - August '15</font></b>
-* Cleaned the pool
-* Managed a bunch of lifeguards
+* Supervised staff of 12+ lifeguards in water safety techniques and facility maintenance.
+* Employed lifesaving skills and maintained a clean and orderly pool facility.
+* Kept American Red Cross certifications up-to-date and obtained the Lifeguard Instructor certification to certify new lifeguards.
 
 <br>
 
