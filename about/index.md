@@ -47,9 +47,10 @@ comments: false
 
 <br>
 
+<!--
 ----------
 
 # Extracurricular Activities
 
 ----------
-
+-->
