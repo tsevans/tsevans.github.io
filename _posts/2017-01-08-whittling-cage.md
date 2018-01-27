@@ -8,4 +8,4 @@ feature: https://media.istockphoto.com/photos/wood-shavings-frame-picture-id1397
 comments: false
 ---
 
-Here is the text!
+Post and images to come!
