@@ -18,7 +18,7 @@ comments: false
 </p>
 <b><font size="3">Cloud Software Engineering Intern  |  Austin, TX  |  May '17 - August '17</font></b>
 * Lead and designed Android marketplace project, which leveraged RESTful API services and resulted in a production version of the app.
-* Established first implementation of a secure 3-legged authentication login in Java to increase client security according to AWS HMAC guidelines
+* Established first implementation of a secure 3-legged authentication login in Java to increase client security according to AWS HMAC guidelines.
 * Worked with cloud team to develop and test PHP APIs using tools such as Postman, Swagger, and cURL.
 * Learned about AWS Cloud environment configuration, infrastructure maintenance, and deployment automation as well as Ansible and Vagrant tools.
 
