@@ -1,7 +1,7 @@
 # Site
 title:              Thomas Evans
-bio:                "Virginia Tech Computer Science, I'm probably awake right now."
-description:        "Virginia Tech Computer Science, I'm probably awake right now."
+bio:                "I'm a software engineer, congrats on finding my website!"
+description:        "I'm a software engineer, congrats on finding my website!"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -36,7 +36,6 @@ disqus_shortname:   tsevans
   #verify:
   #ad-client:
   #ad-slot:
-#bing-verify:
 email: evans96.ts@gmail.com
 #twitter:            username
 #facebook:           username
@@ -46,17 +45,11 @@ linkedin:           tsevanscs
 #xing:              username
 instagram:          ts_evans
 lastfm:             tsevans96
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
 #steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
 soundcloud:         user-362712901
-#weibo:             username
-#flickr:            username
 #codepen:           username
 #keybase:           username
 #xmpp:              username@server.com
